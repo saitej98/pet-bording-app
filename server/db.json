@@ -1,0 +1,44 @@
+{
+  "entity": [
+    {
+      "name": "teja",
+      "city": "srikakulam",
+      "address": "andhra",
+      "capacity": 6,
+      "costPerDay": 600,
+      "verified": "Yes",
+      "rating": 5,
+      "typeDog": false,
+      "typeCat": true,
+      "typeRabit": false,
+      "weight": "5-10Kg",
+      "roamingPlace": "Hall",
+      "sleepingPlace": "Bedroom",
+      "pottyBreaks": 120,
+      "walksPerDay": 175,
+      "homeType": "House",
+      "areaSize": "Large",
+      "emergencyTransport": "Yes"
+    },
+    {
+      "name": "sai",
+      "city": "vizag",
+      "address": "andhra",
+      "capacity": 5,
+      "costPerDay": 100,
+      "verified": "Yes",
+      "rating": 5,
+      "typeDog": true,
+      "typeCat": true,
+      "typeRabit": false,
+      "weight": "15Kg",
+      "roamingPlace": "Kitchen",
+      "sleepingPlace": "Bedroom",
+      "pottyBreaks": 18,
+      "walksPerDay": 100,
+      "homeType": "Room",
+      "areaSize": "Medium",
+      "emergencyTransport": "Yes"
+    }
+  ]
+}
