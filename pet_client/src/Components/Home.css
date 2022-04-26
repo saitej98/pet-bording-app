@@ -1,0 +1,19 @@
+
+table,th,td{
+    border: 1px solid black;
+}
+
+#entityDiv{
+    width: 50%;
+    margin: auto;
+    border: 2px solid red;
+    /* display: flex;
+    flex-direction: column; */
+    text-align: left;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+/* #entityDiv>div{
+    justify-content: space-between;
+} */
